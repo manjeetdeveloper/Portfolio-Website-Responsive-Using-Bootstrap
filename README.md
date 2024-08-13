@@ -38,7 +38,7 @@ This personal portfolio website is designed to present your skills, projects, an
 
 Insert gif or link to demo
 
-https://66bbaf98989906985fe651fe--aesthetic-bubblegum-6f2066.netlify.app/
+https://1portfolio-website.netlify.app
 
 ![Screenshot 2024-08-14 003009](https://github.com/user-attachments/assets/8dd763e2-72ef-48a9-be5c-16899669fe87)
 ![Screenshot 2024-08-14 003128](https://github.com/user-attachments/assets/1f89459d-89b0-4a57-878b-95cc8312d3f3)
